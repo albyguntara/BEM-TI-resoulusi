@@ -1,3 +1,4 @@
 BEM-TI Resolusi
 - Membuat website untuk BEM yang kompleks
 - Menghasilkan uang dari website
+- Konsisten mengembangkan web setiap pekan
