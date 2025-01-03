@@ -1,0 +1,2 @@
+- Membuat tampilan UI menggunakan tailwindcss
+- interaktif web menggunakan javascript
